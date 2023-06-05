@@ -1,2 +1,2 @@
-"# ML-Language-detection" 
+"# ML-Language-detection and deploy with fastapi" 
 "# ML-Language-detection" 
